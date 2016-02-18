@@ -1,0 +1,9 @@
+{
+  "name": "lm75b",
+  "version": "0.1.0",
+  "description": "LM75B Temperature Sensor",
+  "keywords": [],
+  "author": "Doug Anson",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
