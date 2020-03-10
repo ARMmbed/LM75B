@@ -14,8 +14,6 @@
  * limitations under the License.
  */
 
-#include "mbed-drivers/mbed.h"
-#include "minar/minar.h"
 #include "lm75b/lm75b.h"
 
 LM75B::LM75B(PinName sda, PinName scl, Address addr, int hz) : m_I2C(sda, scl), m_ADDR((int)addr)

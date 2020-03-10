@@ -17,7 +17,7 @@
 #ifndef LM75B_H
 #define LM75B_H
 
-#include "mbed-drivers/mbed.h" // Building this for the mbed platform
+#include "mbed.h" // Building this for the mbed platform
 
 /** LM75B class.
  *  Used for controlling an LM75B temperature sensor connected via I2C.
